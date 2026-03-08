@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "cd server && npx tsx src/index.ts & npm run dev"
+  
   },
   "dependencies": {
     "@ffmpeg/ffmpeg": "^0.12.15",
